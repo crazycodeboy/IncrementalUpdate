@@ -1,0 +1,27 @@
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\PatchUtil.csprojResolveAssemblyReference.cache
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\PatchUtil.csproj.GenerateResource.Cache
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\obj\Debug\PatchUtil.csprojResolveAssemblyReference.cache
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\obj\Debug\WindowsFormsApplication2.Main.resources
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Penn\Documents\Visual Studio 2015\Projects\PatchUtil\PatchUtil\obj\Debug\PatchUtil.csproj.GenerateResource.Cache
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\bin\Debug\WindowsFormsApplication2.exe.config
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\obj\Debug\WindowsFormsApplication2.exe
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\obj\Debug\WindowsFormsApplication2.pdb
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\bin\Debug\WindowsFormsApplication2.exe
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\bin\Debug\WindowsFormsApplication2.pdb
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\obj\Debug\PatchUtil.csprojResolveAssemblyReference.cache
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\obj\Debug\WindowsFormsApplication2.Main.resources
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\JiaPengHui\workplace\GitRepository\IncrementalUpdate\PatchUtil-cs\PatchUtil\obj\Debug\PatchUtil.csproj.GenerateResource.Cache
