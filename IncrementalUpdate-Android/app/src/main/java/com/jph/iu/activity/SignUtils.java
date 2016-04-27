@@ -9,11 +9,7 @@ import java.io.IOException;
 import java.security.MessageDigest;
 
 /**
- * 类说明：  	apk 签名信息获取工具类
- *
- * @author 	Cundong
- * @date 	2015-12-20
- * @version 1.0
+ * apk 签名信息获取工具类
  */
 public class SignUtils {
 

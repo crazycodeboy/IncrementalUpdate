@@ -14,16 +14,13 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.cundong.utils.PatchUtils;
 import com.jph.iu.simple.R;
+import com.jph.utils.PatchUtils;
 
 import java.io.File;
 
 /**
- * 类说明：   ApkPatchLibrary 使用Sample
- *
- * @author  Cundong
- * @version 1.5
+ *  ApkPatchLibrary 使用Sample
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -88,7 +85,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 new PatchApkTask().execute();
             }
         } else if (v == mGithubButton) {
-            Intent intent = new Intent("android.intent.action.VIEW", Uri.parse("https://github.com/cundong/SmartAppUpdates"));
+            Intent intent = new Intent("android.intent.action.VIEW", Uri.parse("https://github.com/crazycodeboy/IncrementalUpdate"));
             startActivity(intent);
         }
     }

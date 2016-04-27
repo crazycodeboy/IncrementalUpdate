@@ -13,11 +13,8 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * 类说明：  Apk工具类
- *
- * @author  Cundong
- * @version 1.1
- * @date    2013-9-6
+ * Apk工具类 *
+ * @author  jph
  */
 public class ApkUtils {
 

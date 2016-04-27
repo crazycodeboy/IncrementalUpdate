@@ -5,11 +5,9 @@ import java.io.File;
 import android.os.Environment;
 
 /**
- * 类说明：  	常量类
+ * 常量类
  *
- * @author 	Cundong
- * @date 	2013-9-6
- * @version 1.0
+ * @author 	JPH
  */
 public class Constants {
 
