@@ -29,10 +29,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     // 成功
     private static final int WHAT_SUCCESS = 1;
 
-    // 本地安装的微博MD5不正确
+    // 本地安装的APP MD5不正确
     private static final int WHAT_FAIL_OLD_MD5 = -1;
 
-    // 新生成的微博MD5不正确
+    // 新生成的APP MD5不正确
     private static final int WHAT_FAIL_GEN_MD5 = -2;
 
     // 合成失败
@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         mProgressDialog = new ProgressDialog(this);
         mProgressDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-        mProgressDialog.setMessage("doing..");
+        mProgressDialog.setMessage("正在合成...");
         mProgressDialog.setCancelable(false);
 
         mResultView = (TextView) findViewById(R.id.textview4);
@@ -96,8 +96,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
      * 模拟请求服务器，根据当前安装微博客户端的versionCode、versionName，来获取其文件的正确MD5，防止本地安装的是被篡改的版本
      */
     private void requestOldMD5(int versionCode, String versionName) {
-        mCurentRealMD5 = Constants.WEIBO_OLD_MD5;
-        mNewRealMD5 = Constants.WEIBO_NEW_MD5;
+        mCurentRealMD5 = Constants.KSD_OLD_MD5;
+        mNewRealMD5 = Constants.KSD_NEW_MD5;
     }
 
     private class PatchApkTask extends AsyncTask<String, Void, Integer> {
@@ -171,7 +171,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     break;
                 }
                 case WHAT_FAIL_OLD_MD5: {
-                    String text = "现在安装的WeiboV5.5的MD5不对！";
+                    String text = "现在安装的KSD接单(V1.0.7)的MD5不对！";
                     showToast(text);
                     break;
                 }
@@ -186,7 +186,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     break;
                 }
                 case WHAT_FAIL_GET_SOURCE: {
-                    String text = "无法获取微博客户端的源apk文件，只能整包更新了！";
+                    String text = "无法获取KSD接单的源apk文件，只能整包更新了！";
                     showToast(text);
                     break;
                 }
