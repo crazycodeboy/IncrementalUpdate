@@ -15,7 +15,7 @@
 #include "bzip2/blocksort.c"
 #include "bzip2/huffman.c"
 
-#include "com_cundong_utils_PatchUtils.h"
+#include "com_jph_utils_PatchUtils.h"
 
 static off_t offtin(u_char *buf) {
 	off_t y;
@@ -192,11 +192,11 @@ int applypatch(int argc, char * argv[]) {
 }
 
 /*
- * Class:     com_cundong_utils_PatchUtils
+ * Class:     com_jph_utils_PatchUtils
  * Method:    patch
  * Signature: (Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)I
  */
-JNIEXPORT jint JNICALL Java_com_cundong_utils_PatchUtils_patch(JNIEnv *env,
+JNIEXPORT jint JNICALL Java_com_jph_utils_PatchUtils_patch(JNIEnv *env,
 		jobject obj, jstring old, jstring new, jstring patch) {
 
 	char * ch[4];

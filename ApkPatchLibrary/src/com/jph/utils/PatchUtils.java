@@ -1,11 +1,10 @@
-package com.cundong.utils;
+package com.jph.utils;
+
 
 /**
- * 类说明： 	APK Patch工具类
- * 
- * @author 	Cundong
- * @date 	2013-9-6
- * @version 1.0
+ * APK Patch工具类
+ * @author Penn
+ *
  */
 public class PatchUtils {
 
