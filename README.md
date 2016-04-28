@@ -1,7 +1,6 @@
 
 # Android应用省流量升级、增量更新、补丁生成与应用 - Incremental Update
 
-------
 
 ## 介绍
 
